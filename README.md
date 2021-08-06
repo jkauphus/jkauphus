@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jkauphus
 - 👀 I’m interested in ecology/wildlife conservation/ and water resources
 - 🌱 I’m currently learning R, Rshiny, and SQL
-- ✨ I'm currently working for the Logan Simpson as a Biologist 
+- ✨ I'm currently working for Logan Simpson as a Biologist 
 - 💞️ I’m looking to collaborate on Arizona Wildlife Conservation
 - 📫 How to reach me jack.kauphusman@outlook.com
 
